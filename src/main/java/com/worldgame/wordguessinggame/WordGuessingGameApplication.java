@@ -12,7 +12,6 @@ import javax.annotation.PostConstruct;
 
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.worldgame", "com.wordgame"})
-@EnableAutoConfiguration
 public class WordGuessingGameApplication {
 
     public static void main(String[] args) {
