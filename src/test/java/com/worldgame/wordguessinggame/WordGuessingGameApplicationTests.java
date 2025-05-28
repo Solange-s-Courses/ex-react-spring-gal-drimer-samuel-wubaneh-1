@@ -1,10 +1,10 @@
-package com.example.exreactspringgaldrimersamuelwubaneh1;
+package com.worldgame.wordguessinggame;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExReactSpringGalDrimerSamuelWubaneh1ApplicationTests {
+class WordGuessingGameApplicationTests {
 
     @Test
     void contextLoads() {
